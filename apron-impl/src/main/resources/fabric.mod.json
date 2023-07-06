@@ -56,20 +56,12 @@
       "environment": "*"
     },
     {
-      "config": "guiapi.mixins.json",
-      "environment": "client"
-    },
-    {
       "config": "reforged.mixins.json",
       "environment": "*"
     },
     {
       "config": "modloader.mixins.json",
       "environment": "*"
-    },
-    {
-      "config": "modoptionsapi.mixins.json",
-      "environment": "client"
     },
     {
       "config": "playerapi.mixins.json",
